@@ -23,7 +23,7 @@ var listaban = ["3137372E33342E3232302E313030",		//"PARA TODOS"ACEITA TRANS?
 				"3137372E38312E37392E313937",		//sem nome
 
 ];
-
+estilo = 'normal';
 const aviso = 2; // se botar 1 ele manda no discord quando abrir e marca o @here | 2 ele só manda lá | 0 ele não manda
 const discord = "🔥Entra no discord: https://discord.gg/qqwAWxCwWb 🔥";
 const roomName = "X3 O FUTSAL É PARA TODOS";
