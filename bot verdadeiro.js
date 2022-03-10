@@ -24,7 +24,7 @@ var listaban = ["3137372E33342E3232302E313030",		//"PARA TODOS"ACEITA TRANS?
 
 ];
 estilo = 'normal';
-const aviso = 2; // se botar 1 ele manda no discord quando abrir | 2 ele manda la e marca | 0 ele não manda
+const aviso = 2; // se botar 1 ele manda no discord quando abrir e marca @here | 2 ele só manda lá | 0 ele não manda
 const discord = "🔥Entra no discord: https://discord.gg/qqwAWxCwWb 🔥";
 const roomName = "X3 O FUTSAL É PARA TODOS";
 const botName = "juiz brasileiro";
