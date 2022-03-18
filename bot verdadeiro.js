@@ -8,6 +8,8 @@ var adminPassword = 123;
 var token = 'thr1.AAAAAGIymAtoJlPIurAiNA.7rP6F7sVghA'; // token se quiser entrar sem captcha | https://www.haxball.com/headlesstoken
 //digita a conexão da pessoa banida aqui 
 var listaban = ["3137372E33342E3232302E313030",		//"PARA TODOS"ACEITA TRANS?
+				'3230312E322E31342E3731',			// bolsodoria - racista
+				'3138392E31332E3136382E3838',  		// O - flood da quintal
 				"3230312E3138322E3231342E313534",	//golaço
 				"3139312E31372E3138312E323131",		//Ribamar (No celular)
 				"3137372E38392E3137342E313430",		//BILARDO "EL DOC"
